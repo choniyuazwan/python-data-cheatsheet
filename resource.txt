@@ -1,0 +1,8 @@
+https://www.pythoncheatsheet.org/
+https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6
+https://www.datacamp.com/community/data-science-cheatsheets
+https://www.pythonsheets.com/
+https://ugoproto.github.io/ugo_py_doc/
+https://www.ibm.com/support/knowledgecenter/SSQNUZ_current/com.ibm.icpdata.doc/dsx/markd-jupyter.html
+https://sinxloud.com/python-cheat-sheet-beginner-advanced/
+https://ehmatthes.github.io/pcc/cheatsheets/README.html
